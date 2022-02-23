@@ -1,0 +1,158 @@
+{
+    "questions": [
+        {
+            "questionText":"1 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"2 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"3 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"4 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"5 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"6 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"7 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"8 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        },
+        {
+            "questionText":"9 How else can Array<number> be written in Typescript?",
+            "options":[{
+                "text":":",
+                "correct": true
+            },
+            {
+                "text":";"
+            },
+            {
+                "text":"&"
+            },
+            {
+                "text":"!"
+            }],
+            "explanation": "Ts uses a colon (:) to seperate  the property  name from the property type"
+        }
+        
+    ]
+}
